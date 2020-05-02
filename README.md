@@ -3,10 +3,7 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 
 
 
-
-NLP_libraties_comparision.ipynb:
-
-Table of Contents
+# NLP_libraties_comparision.ipynb:
 1  Regular expression
 2  Tokenization
 3  Regex with NLTK tokenization
@@ -21,8 +18,8 @@ Table of Contents
 9  polyglot
 
 
-Project_NPL_scikit-learn.ipynb
 
+# Project_NPL_scikit-learn.ipynb:
 1. Sueprvised learning with scikit-learn for text data
 2. scikit-learn plus Naive Bayes classifier
 3. TfidfVectorizer plus Naive Bayes classifier
