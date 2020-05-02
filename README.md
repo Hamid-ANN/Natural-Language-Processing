@@ -23,3 +23,6 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 1. Sueprvised learning with scikit-learn for text data
 2. scikit-learn plus Naive Bayes classifier
 3. TfidfVectorizer plus Naive Bayes classifier
+
+dataset: 
+Reviews of movies and label of Fake and Real
