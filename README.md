@@ -24,5 +24,5 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 2. scikit-learn plus Naive Bayes classifier
 3. TfidfVectorizer plus Naive Bayes classifier
 
-dataset: 
-Reviews of movies and label of Fake and Real
+Dataset: 
+Reviews of movies and label of them which could be interpreted as positive and negatice or True and False
