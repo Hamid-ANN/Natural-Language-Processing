@@ -38,3 +38,15 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 
 Dataset: 
 Reviews of movies and label of them which could be interpreted as positive and negatice or True and False
+
+
+
+
+
+# Fuzzy String Matching in Python
+There are many strings that referring to the same things but they are written slightly different, misspelled, have typos or written with the capital or small words.
+
+During this project we want to match the fuzzy strings. Despite of lowering the words extra dot leads to the problem.
+
+# Project: 
+The dataset it the list of best selling book published by New York Times since  1930. We want to see the variation of gender distubution of authors during the time. The initial dataset is from 2008 to 2017.
