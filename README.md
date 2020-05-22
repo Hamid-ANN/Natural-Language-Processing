@@ -3,7 +3,6 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 
 
 
-
 # NLP_libraties_comparision.ipynb:
 1  Regular expression
 
@@ -31,6 +30,8 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 
 
 
+
+
 # Project_NPL_scikit-learn.ipynb:
 1. Sueprvised learning with scikit-learn for text data
 2. scikit-learn plus Naive Bayes classifier
@@ -38,6 +39,8 @@ Use libraries such as NLTK and deep learning to solve common NLP problems
 
 Dataset: 
 Reviews of movies and label of them which could be interpreted as positive and negatice or True and False
+
+
 
 
 
